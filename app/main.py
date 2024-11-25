@@ -62,3 +62,4 @@ def hash_csv():
     if not valor_hash:
         raise HTTPException(status_code=404, detail="Arquivo CSV não encontrado")
     return {"hash": valor_hash}
+

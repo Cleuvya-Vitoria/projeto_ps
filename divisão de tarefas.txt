@@ -1,0 +1,13 @@
+Amanda
+- Definir, modelar e ajustes da classe Despesas
+- Elementos do crud: adicionar despesas, listar despesas
+- Compactação do arquivo
+- Geração do hash SHA256 do arquivo csv
+- Definir itens da main.py
+- Inserir entidades da aplicação
+
+Cleuvya
+- Definir, modelar e ajustes da classe Despesas
+- Elementos do crud: atualizar despesa, remover despesa, contar despesas
+- Definir itens da main.py
+- Inserir entidades da aplicação
