@@ -1,1 +1,11 @@
 id,descricao,valor,status,grupo_id,data_criacao
+1,janta,150.0,pendente,3,2024-11-25 
+3,lanche,120.0,pendente,5,2024-11-25
+4,compras,240.0,pendente,6,2024-11-19
+5,jogo,70.0,paga,7,2024-11-24
+6,aluguel,800.0,paga,4,2024-11-25 
+7,bebidas,300.0,paga,2,2024-10-25 
+8,supermercado,700.0,parcialmente paga,4,2024-11-20
+9,pizzaria,68.0,paga,5,2024-10-23
+10,ifood,185.0,parcialemente paga,3,2024-10-30
+18,luz,80.0,paga,4,2024-11-24 00:00:00
